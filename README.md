@@ -4,4 +4,5 @@ This is the repository containing The Quiz Game Files developed by me.
 <ul>
   <li>JS</li>
   <li>HTML</li>
+  <li>CSS</li>
 </ul>
