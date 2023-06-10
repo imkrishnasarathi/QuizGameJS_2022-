@@ -2,5 +2,5 @@
 This is the repository containing The Quiz Game Files developed by me. <br>
 ### Languages Used:
 <ul>
-
+  <li>HTML</li>
 </ul>
